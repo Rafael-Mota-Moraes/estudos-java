@@ -1,0 +1,36 @@
+# Arquivos e diretórios específicos do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos de compilação Java
+bin/
+
+# Arquivos temporários
+tmp/
+*.tmp
+*.bak
+*.swp
+*~
+
+# Logs
+*.log
+
+# Arquivos de configuração
+.apt_generated/
+.factorypath
+.recommenders/
+
+# Cache de classes
+target/
+*.class
+
+# Pacotes
+*.jar
+*.war
+*.ear
+
+# Dependências do Maven (se estiver usando o Maven)
+/.mvn
+target/
+/.metadata/
